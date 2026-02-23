@@ -1,0 +1,58 @@
+{
+  "Student Remarks" :[
+    {
+      "0-10": "Needs attention. The student has not yet shown understanding of the skills and requires clear guidance and support.",
+      "11-20":"Very limited progress. The student is struggling with skills and needs more practice and focused help.",
+      "21-30":"Below expectations. The student shows basic awareness but is still unable to apply the skills independently.",
+      "31-40":"Developing slowly. The student can attempt the skills with support but needs regular practice to improve.",
+      "41-50":"Emerging understanding. The student shows partial understanding and is starting to apply the skills with guidance.",
+      "51-60":"Satisfactory. The student demonstrates average understanding and can perform the skills with some assistance.",
+      "61-70":"Steady progress. The student shows reasonable understanding and can apply the skills in familiar situations.",
+      "71-80":"Good performance. The student understands the skills well and applies it confidently in most cases.",
+      "81-90":"Very good. The student demonstrates strong command of the skills and applies it consistently with minimal support.",
+      "91-100":"Excellent. The student fully understands the skills and applies it confidently and independently in all situations."
+    }
+  ],
+  "Grade Remarks" :[
+    {
+      "0-10": "Overall performance is very low. The grade needs strong academic support, clearer guidance and consistent follow-up to build basic understanding.",
+      "11-20":"The grade is struggling across most areas. Focused intervention and structured practice are required to lift overall learning levels.",
+      "21-30":"Performance is below expectations. Students show limited understanding and would benefit from targeted support and improved classroom engagement.",
+      "31-40":"Progress is slow but visible. The grade is developing foundational skills but still needs regular reinforcement and improved consistency.",
+      "41-50":"Average understanding with noticeable gaps. The grade can perform basic tasks but requires further practice to strengthen concepts.",
+      "51-60":"Satisfactory performance. The grade shows steady progress and can handle familiar tasks but needs support to reach higher mastery.",
+      "61-70":"Good overall effort. Students demonstrate reasonable understanding and show potential for stronger outcomes with continued practice.",
+      "71-80":"A well-performing grade. Students show solid understanding, good engagement and consistent application of skills.",
+      "81-90":"Very strong performance. The grade demonstrates high competence, good clarity of concepts and confidence in applying skills.",
+      "91-100":"Excellent performance. The grade shows outstanding understanding, strong concept clarity and consistent mastery across all areas."
+    }
+  ],
+  "School Remarks" :[
+    {
+      "0–10%": "The school’s overall performance is very low and indicates a strong need for academic support, structured planning and consistent follow-up to build foundational learning.",
+      "11–20%": "The school is struggling across most areas. Focused intervention, teacher support and improved classroom practices are required to raise the overall learning level.",
+      "21–30%": "Performance is below expectations. Students show limited understanding, and the school would benefit from strengthened teaching strategies and better learning engagement.",
+      "31–40%": "Progress is slow but improving. The school is developing basic skills but needs stronger reinforcement and consistent monitoring to ensure stability in performance.",
+      "41–50%": "Overall understanding is average with clear gaps. The school can manage basic learning outcomes but requires more targeted efforts to improve concept clarity and application.",
+      "51–60%": "Satisfactory performance. The school shows steady progress and acceptable understanding but needs ongoing support to reach higher academic standards.",
+      "61–70%": "Good overall performance. Students show reasonable understanding, and the school has the potential to achieve stronger results with continuous improvement strategies.",
+      "71–80%": "A well-performing school. Students demonstrate solid learning outcomes, good engagement and consistent application of skills across classes.",
+      "81–90%": "Very strong performance. The school shows high learning standards, strong concept clarity and confidence in applying skills across multiple grades.",
+      "91–100%": "Excellent performance. The school demonstrates outstanding understanding, strong academic practices and consistent mastery across all areas."
+    }
+  ],
+  "Teacher Remarks" :[
+    {
+      "0–10%": "The teacher needs significant support. Core teaching practices, student engagement and lab management require immediate improvement.",
+      "11–20%": "Performance is well below expectations. The teacher needs structured guidance and professional development to improve lab delivery.",
+      "21–30%": "Basic performance with clear gaps. More effort is needed in planning, instruction and supporting students during lab activities.",
+      "31–40%": "Developing but inconsistent. The teacher shows effort but needs regular support to strengthen lab teaching skills.",
+      "41–50%": "Average performance. Some lab practices are in place, but concept clarity and lab handling need improvement.",
+      "51–60%": "Satisfactory level. The teacher shows reasonable understanding of lab procedures and can improve further with targeted training.",
+      "61–70%": "Good performance. The teacher demonstrates solid lab teaching skills and steady progress in guiding students during activities.",
+      "71–80%": "Strong performance. Lab sessions are planned well; students stay engaged and the learning environment is effective.",
+      "81–90%": "Very good performance. The teacher shows strong command of lab-based teaching strategies and maintains a productive environment.",
+      "91–100%": "Excellent performance. Highly effective lab teaching, strong management and consistent delivery of quality hands-on learning experiences."
+    }
+  ]
+}
